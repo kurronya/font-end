@@ -1,8 +1,4 @@
 import { createApp } from 'vue'
-<<<<<<< HEAD
-import './style1.css'
-=======
->>>>>>> features
 import App from './App.vue'
 import router from './router'
 
